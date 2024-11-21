@@ -1,4 +1,4 @@
-# FC-25-Players-Data
+# EA-Sports-FC-25-Players-Data
 Last updated: 21/11/2024
 
 The dataset provides comprehensive player data for Career Mode in EA Sports FC 24. It includes a wide range of information about individual players, such as their attributes, performance statistics, and transfer details. Key metrics like overall rating, potential rating, physical and technical skills, and special traits are all covered. Additionally, player contracts, form, and morale are tracked to give a realistic view of each player's career trajectory.
